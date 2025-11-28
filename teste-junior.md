@@ -164,25 +164,3 @@ Após a instalação:
 3. ✅ Adicione produtos ao catálogo
 4. ✅ Crie seu primeiro pedido
 5. ✅ Explore as funcionalidades!
-
-## 🤝 Contribuindo
-
-Para contribuir com o projeto:
-
-1. Fork o repositório
-2. Crie uma branch: `git checkout -b feature/nova-funcionalidade`
-3. Commit suas mudanças: `git commit -m 'Adiciona nova funcionalidade'`
-4. Push para a branch: `git push origin feature/nova-funcionalidade`
-5. Abra um Pull Request
-
-## 📞 Suporte
-
-Se encontrar problemas:
-
-1. Verifique a documentação em `README.md`
-2. Consulte `database/DATABASE_SETUP.md` para problemas de banco
-3. Veja os logs: `docker-compose logs -f`
-4. Abra uma issue no GitHub
-
----
-
